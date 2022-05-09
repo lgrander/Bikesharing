@@ -9,11 +9,22 @@ This analysis determines the summary overview for CitiBike data. CitiBike is a b
 ## Results
 Let's have a look on the results of the overview of CitiBike data below. 
 
+
+![Starting_Locations](https://github.com/lgrander/Bikesharing/blob/main/Starting_Locations.png)
+![Ending_Locations](https://github.com/lgrander/Bikesharing/blob/main/Ending_Locations.png)
+
 There were more than 2 million trips in August with CitiBike. From the above Tableau map we can see that top starting and ending locations are similar and located in Manhattan - the main touristic and business center in NYC.
+
+![Customer_Type_Number_Of_Rides](https://github.com/lgrander/Bikesharing/blob/main/Customer_Type_Number_Of_Rides.png)
 
 In the Dashboard above we can see the total number of trips and well and some user information. 81% of users are annual subscribers, only 19% of all rides were booked by non-subscribers. This Suggest that a very small percentage of utilization is dependent upon tourism.
 
+![Peak_Hours](https://github.com/lgrander/Bikesharing/blob/main/Peak_Hours.png)
+![Trip_Duration](https://github.com/lgrander/Bikesharing/blob/main/Trip_Duration.png)
+
 Based on the peak hours and ride duration above we can see that most of the utilization is for short rides during peak traffic hours. We can assume from this information that it is mostly locals using the bikes. This is further broken down by the utilization hot map below.
+
+![Utilization_Breakdown](https://github.com/lgrander/Bikesharing/blob/main/Utilization_Breakdown.png)
 
 ## Summary 
 
